@@ -1,0 +1,84 @@
+.Brett {
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    align-items: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+a {
+    color: blue;
+}
+
+a:hover {
+    color: purple;
+    font-size: larger;
+}
+
+.Dinos {
+    height: 32px;
+    width: 192px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+p{
+    text-align: center;
+}
+
+h2 {
+    font-family: arial;
+    color: black;
+    font-weight: bold;
+    text-align: center;
+}
+
+body {
+    font-family: sans-serif;
+}
+
+table {
+  text-align: center;
+  border-collapse: collapse;
+  border: 1px solid #ddd;
+  border-radius: 25px;
+}
+
+tr {
+    height: 50px;
+}
+
+td {
+    width: 15%;
+}
+
+tr:nth-child(even) {
+    background-color: tomato;
+    color: white;
+} 
+
+.quote {
+    background-color: teal;
+    color: white;
+    box-shadow: inset;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    width: 50%;
+    border-radius: 20px;
+    font-weight: bold;
+}
+
+.quoteName {
+    text-align: right;
+    padding-right: .5cm;
+}
+
+span {
+    color: red;
+    font-weight: bold;
+}
